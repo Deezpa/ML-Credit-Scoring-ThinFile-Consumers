@@ -1,0 +1,7 @@
+Model,AUC-ROC Score
+Logistic Regression,0.72
+Decision Tree,0.75
+Random Forest,0.81
+Gradient Boosting,0.84
+SVM,0.78
+Deep Neural Network,0.86
