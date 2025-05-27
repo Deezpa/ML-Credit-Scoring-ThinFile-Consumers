@@ -1,0 +1,3 @@
+[submodule "data/synthetic-dataset"]
+	path = data/synthetic-dataset
+	url = https://github.com/Deezpa/credit-score.git
