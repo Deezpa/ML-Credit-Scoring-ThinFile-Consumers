@@ -1,0 +1,5 @@
+Feature,LIME Weight
+Loan Purpose: Business,-0.25
+Age < 25,-0.18
+High Utilization,-0.3
+Short Credit History,-0.2
