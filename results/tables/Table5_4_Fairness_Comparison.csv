@@ -1,0 +1,7 @@
+Model,Demographic Parity,Equal Opportunity
+Logistic Regression,0.14,0.13
+Decision Tree,0.12,0.11
+Random Forest,0.1,0.09
+Gradient Boosting,0.09,0.08
+SVM,0.11,0.1
+DNN,0.08,0.07
