@@ -1,0 +1,4 @@
+Model,AUC without Fairness,AUC with Fairness,Bias Reduction (%)
+Random Forest,0.81,0.78,30.0
+Gradient Boosting,0.84,0.81,35.0
+DNN,0.86,0.83,38.0
