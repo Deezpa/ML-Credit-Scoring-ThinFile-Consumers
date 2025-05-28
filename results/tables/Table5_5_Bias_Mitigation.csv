@@ -1,0 +1,5 @@
+Model,Bias (Before),Bias (After),Improvement (%)
+Logistic Regression,0.18,0.11,38.89
+Random Forest,0.15,0.09,40.0
+Gradient Boosting,0.13,0.08,38.46
+DNN,0.12,0.07,41.67
