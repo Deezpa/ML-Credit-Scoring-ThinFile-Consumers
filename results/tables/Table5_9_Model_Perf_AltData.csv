@@ -1,0 +1,4 @@
+Model,AUC with Alt Data,Precision,Recall,F1-Score
+Random Forest,0.85,0.82,0.81,0.815
+Gradient Boosting,0.88,0.85,0.84,0.845
+DNN,0.89,0.87,0.86,0.875
