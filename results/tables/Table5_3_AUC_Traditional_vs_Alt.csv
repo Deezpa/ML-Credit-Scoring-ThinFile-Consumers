@@ -1,0 +1,5 @@
+Model,Traditional AUC,Alternative AUC
+Logistic Regression,0.72,0.76
+Random Forest,0.81,0.85
+Gradient Boosting,0.84,0.88
+DNN,0.86,0.89
