@@ -1,0 +1,6 @@
+Feature,SHAP Value
+Payment History,0.32
+Credit Utilization,0.28
+Age,0.15
+Loan Purpose,0.13
+Income Level,0.12
