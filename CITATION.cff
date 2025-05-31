@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the following metadata."
+title: "ML-Credit-Scoring-ThinFile-Consumers"
+authors:
+  - family-names: Shukla
+    given-names: Deepa
+    orcid: https://orcid.org/0000-0003-3016-1633
+date-released: 2025-05-26
+version: 4.0
+doi: 10.7910/DVN/6MLVVI
+url: https://github.com/Deezpa/ML-Credit-Scoring-ThinFile-Consumers
+repository-code: https://github.com/Deezpa/ML-Credit-Scoring-ThinFile-Consumers
+keywords:
+  - machine learning
+  - credit scoring
+  - fairness
+  - thin-file consumers
+  - financial technology
