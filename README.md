@@ -4,6 +4,12 @@
 By Dr. Deepa Shukla, 2025
 This repository presents the datasets, models, and fairness-aware algorithms developed as part of my PhD thesis.
 
+> 📢 **Explore the live project site:**  
+> 👉 [**ML-Credit-Scoring-ThinFile-Consumers GitHub Page**](https://deezpa.github.io/ML-Credit-Scoring-ThinFile-Consumers/)  
+>  
+> [![View Documentation](https://img.shields.io/badge/GitHub%20Pages-Visit%20Project%20Website-blue?logo=github)](https://deezpa.github.io/ML-Credit-Scoring-ThinFile-Consumers/)
+
+ 
 # 📘 Machine Learning for Credit Scoring of Thin-File Consumers  
 **Final PhD Thesis Implementation – Chapter 5**
 
