@@ -1,5 +1,9 @@
 # ML-Credit-Scoring-ThinFile-Consumers
+
+🎓 Live Research Repository – PhD Thesis Implementation | Credit Scoring with ML & Fairness Evaluation
+By Dr. Deepa Shukla, 2025
 This repository presents the datasets, models, and fairness-aware algorithms developed as part of my PhD thesis.
+
 # 📘 Machine Learning for Credit Scoring of Thin-File Consumers  
 **Final PhD Thesis Implementation – Chapter 5**
 
