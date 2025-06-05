@@ -27,6 +27,16 @@ This repository contains the complete implementation of Chapter 5 of my PhD thes
 It addresses the challenge of evaluating creditworthiness for **thin-file consumers**—individuals with limited or no traditional credit history—using machine learning models, **alternative data**, and **fairness-aware methodologies**.
 
 ---
+ML-Credit-Scoring-ThinFile-Consumers/
+│
+├── notebooks/ # Jupyter notebooks: training, SHAP/LIME, fairness
+├── results/ # Visualizations, model outputs, fairness plots
+├── tables/ # Tables 5.1–5.6 in CSV format
+├── thesis_demo_colab.ipynb# Google Colab-compatible demo
+├── LICENSE # MIT License
+├── README.md # You’re here
+├── CITATION.cff # Citation metadata
+
 
 ---
 
@@ -81,16 +91,6 @@ This work integrates fairness into machine learning model evaluation through:
 ---
 
 ## 🗂️ Repository Structure
-
-ML-Credit-Scoring-ThinFile-Consumers/
-│
-├── notebooks/ # Jupyter notebooks: training, SHAP/LIME, fairness
-├── results/ # Visualizations, model outputs, fairness plots
-├── tables/ # Tables 5.1–5.6 in CSV format
-├── thesis_demo_colab.ipynb# Google Colab-compatible demo
-├── LICENSE # MIT License
-├── README.md # You’re here
-├── CITATION.cff # Citation metadata
 
 
 ---
