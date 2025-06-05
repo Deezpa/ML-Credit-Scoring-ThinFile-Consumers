@@ -18,14 +18,31 @@ It addresses the challenge of evaluating creditworthiness for **thin-file consum
 
 ---
 
+---
+
 ## 📊 Dataset
 
-A synthetic dataset was created and shared publicly to support reproducibility and transparent experimentation:
+A synthetic dataset was created and published as part of this thesis to support reproducibility and fairness research:
 
-**📌 Dataset DOI:**  
-[https://doi.org/10.7910/DVN/6MLVVI](https://doi.org/10.7910/DVN/6MLVVI)  
+📘 **Dataset Title**: *Synthetic Credit Score of Thin-File Consumers*  
+📅 **Published**: May 2024  
+📁 **Hosted on**: [Harvard Dataverse](https://dataverse.harvard.edu/)  
+🔗 **Permanent DOI**: [https://doi.org/10.7910/DVN/6MLVVI](https://doi.org/10.7910/DVN/6MLVVI)
 **📂 Format:** CSV with metadata following FAIR principles  
 **🔍 Contents:** Credit scoring features (traditional + alternative), synthetic labels, demographic proxies
+
+### 📚 Citation
+
+If you use this dataset in your research, please cite as:
+
+```bibtex
+@dataset{shukla_2024_synthetic,
+  author       = {Deepa Shukla},
+  title        = {Synthetic Credit Score of Thin-File Consumers},
+  year         = 2024,
+  doi          = {10.7910/DVN/6MLVVI},
+  url          = {https://doi.org/10.7910/DVN/6MLVVI}
+}
 
 ---
 
